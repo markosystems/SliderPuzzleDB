@@ -1,0 +1,2 @@
+# SliderPuzzleDB
+Every Possible Position
